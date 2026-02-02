@@ -57,7 +57,7 @@ La idea surge tras asistir al Congreso de Inteligencia Artificial de Granada, do
 
 ---
 
-## ⚙️ Arquitectura del sistema
+##  Arquitectura del sistema
 
 1. La Raspberry Pi captura vídeo en tiempo real.
 2. Python, junto a MediaPipe, detecta la mano y calcula los ángulos de los dedos.
