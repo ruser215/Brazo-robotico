@@ -32,7 +32,7 @@ La idea surge tras asistir al Congreso de Inteligencia Artificial de Granada, do
   - Pintado del guante
   - Colocación de servos y cuerdas
 
-- **Alberto**
+- **Victor**
   - Investigación de librerías de Python
   - Desarrollo del primer prototipo de reconocimiento de la mano
   - Programación de la Raspberry Pi
